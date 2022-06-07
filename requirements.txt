@@ -1,0 +1,4 @@
+argparse
+torch==1.6.0
+# wandb
+git+https://github.com/wandb/client.git@summerhack/launch#egg=wandb[launch]
