@@ -1,5 +1,5 @@
 argparse
 pynvml
-torch==1.6.0
+torch==1.4.0+cu100 -f https://download.pytorch.org/whl/torch_stable.html
 # wandb
 git+https://github.com/wandb/client.git@summerhack/launch#egg=wandb[launch]
